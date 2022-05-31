@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a34f6ef-c326-4c70-8fa2-eb4e797204a0" name="Changes" comment="Renaming Main.java to Loops.java">
+      <change afterPath="$PROJECT_DIR$/src/com/aditya/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aditya/CountingOccurrences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aditya/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aditya/ReverseOfNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aditya/UpperLowerCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aditya/UpperLowerCaseWithConcepts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aditya/Largest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aditya/Largest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aditya/Loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aditya/Loops.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29ezHKd6fg0FU7eOXonMjW5815X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aditya.Calculator" />
+      <module name="Conditionals-and-Loops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aditya.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountingOccurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aditya.CountingOccurrences" />
+      <module name="Conditionals-and-Loops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aditya.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aditya.Fibonacci" />
+      <module name="Conditionals-and-Loops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aditya.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseOfNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aditya.ReverseOfNum" />
+      <module name="Conditionals-and-Loops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aditya.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpperLowerCaseKunal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aditya.UpperLowerCaseKunal" />
+      <module name="Conditionals-and-Loops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aditya.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.ReverseOfNum" />
+        <item itemvalue="Application.CountingOccurrences" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.UpperLowerCaseKunal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a34f6ef-c326-4c70-8fa2-eb4e797204a0" name="Changes" comment="" />
+      <created>1653488253135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653488253135</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Adding Main.java">
+      <created>1653488384576</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653488384576</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Renaming Main.java to Loops.java">
+      <created>1653490544607</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653490544607</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Renaming Main.java to Loops.java">
+      <created>1653639695703</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653639695703</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding Main.java" />
+    <MESSAGE value="Renaming Main.java to Loops.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Renaming Main.java to Loops.java" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/aditya/CountingOccurrences.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
