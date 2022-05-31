@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a34f6ef-c326-4c70-8fa2-eb4e797204a0" name="Changes" comment="Renaming Main.java to Loops.java">
-      <change afterPath="$PROJECT_DIR$/src/com/aditya/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aditya/CountingOccurrences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aditya/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aditya/ReverseOfNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aditya/UpperLowerCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aditya/UpperLowerCaseWithConcepts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aditya/Largest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aditya/Largest3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aditya/Loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aditya/Loops.java" afterDir="false" />
-    </list>
+    <list default="true" id="2a34f6ef-c326-4c70-8fa2-eb4e797204a0" name="Changes" comment="Renaming Main.java to Loops.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
