@@ -50,3 +50,9 @@ Because Java objects are always accessed through a reference, rather than direct
     For objects, the pass by value is the value of the reference to the object
 
  */
+/*
+  The value of a reference variable — i.e., the reference — points to a location that contains information relating to the given variable.
+  Let's assume that we have a Person class available to us, containing an instance variable 'age'.
+  If we've instantiated a person object from the class, we can get our hands on the age variable by following the object's reference.
+  The value of this age variable can then be changed as needed.
+ */
