@@ -6,13 +6,14 @@ import java.util.Scanner;
 public class Sum {
     public static void main(String[] args) {
         System.out.println(sum()); //anything that you want to use in static has to be static
+                                   //sum()--> is function call
         System.out.println(Sum.sum);
-
+        int sum;
     }
     int instanceVariable=200;
     static int sum;
     static int example=7;
-    static  int sum() //sum--> is identifier.....sum()--> is function call
+    static  int sum() //sum--> is identifier.....
         {
             Scanner in = new Scanner(System.in);
             System.out.print("Enter number 1: ");
