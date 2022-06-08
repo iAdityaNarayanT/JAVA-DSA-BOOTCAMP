@@ -37,7 +37,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArmstrongNumber">
+  <component name="RunManager" selected="Application.isNoArmstrongNo">
     <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aditya.ArmstrongNumber" />
       <module name="Methods" />
@@ -90,14 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.aditya.Prime (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="18" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.aditya.Prime" />
+    <configuration name="isNoArmstrongNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aditya.isNoArmstrongNo" />
       <module name="Methods" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aditya.*" />
+          <option name="PATTERN" value="aditya.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.isNoArmstrongNo" />
         <item itemvalue="Application.ArmstrongNumber" />
         <item itemvalue="Application.aditya.Prime" />
         <item itemvalue="Application.Playground" />
         <item itemvalue="Application.ReturnJava" />
-        <item itemvalue="Application.com.aditya.Prime (1)" />
       </list>
     </recent_temporary>
   </component>
