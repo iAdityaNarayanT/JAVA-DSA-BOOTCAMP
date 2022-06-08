@@ -37,7 +37,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ReturnJava">
+  <component name="RunManager" selected="Application.aditya.Prime">
     <configuration name="Playground" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aditya.Playground" />
       <module name="Methods" />
@@ -107,9 +107,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReturnJava" />
-        <item itemvalue="Application.Playground" />
         <item itemvalue="Application.aditya.Prime" />
+        <item itemvalue="Application.Playground" />
+        <item itemvalue="Application.ReturnJava" />
         <item itemvalue="Application.com.aditya.Prime (1)" />
         <item itemvalue="Application.com.aditya.Prime" />
       </list>

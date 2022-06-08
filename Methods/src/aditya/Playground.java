@@ -8,6 +8,7 @@ public class Playground {
 
     private static void add(int x, int y) {
         System.out.println(x+y);
+        System.out.println(false);
 
     }
 }
