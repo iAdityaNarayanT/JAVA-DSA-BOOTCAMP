@@ -5,8 +5,7 @@ import java.util.Scanner;
 public class AsciiValues {
     public static void main(String[] args) {
         System.out.println("Enter a character");
-        Scanner input = new Scanner(System.in);
-        System.out.println("Its ascii value is: " + asciiValue(input.next().trim().charAt(0)));
+        Scanner input = new Scanner(System.in);System.out.println("Its ascii value is: " + asciiValue(input.next().trim().charAt(0)));
 
     }
     static int asciiValue(char ch) {
