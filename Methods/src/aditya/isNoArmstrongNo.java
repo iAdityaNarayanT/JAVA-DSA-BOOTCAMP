@@ -8,7 +8,14 @@ public class isNoArmstrongNo {
         System.out.print("Enter a number:   ");
         int num= input.nextInt();
         boolean ans= isArmstrong(num);
-        System.out.println(ans);
+        System.out.println("Entered number is armstrong number : " + ans);
+        System.out.println("3 digit numbers which are armstrong numbers: ");
+
+        for (int i=100; i<1000; i++){
+            if (isArmstrong(i)){
+                System.out.println(i);
+            }
+        }
     }
 
     static boolean isArmstrong(int num) {
