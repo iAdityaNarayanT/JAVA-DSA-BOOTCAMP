@@ -20,18 +20,18 @@ public class Input {
             arr[i]=in.nextInt();
         }
         // Now to print the following array
+        // 1. for-loop method
 //        for (int i = 0; i < arr.length ; i++) {
 //            System.out.print(arr[i] + " ");
 //        }
 
-        // enhanced for each loop
+        //! 2. for each loop method: Enhanced for loop
 
         for (int num : arr) { // for every element in the array, print the element
             num+=1;
             System.out.print(num + " "); // num represents the element of the array
 
         }
-        System.out.println(" ");
-        System.out.println(arr[2]);
+//        System.out.println(arr[6]); //Error: Index 6 out of bounds for length 5
     }
 }
