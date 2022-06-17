@@ -15,6 +15,7 @@ public class Main {
             ros = new int[5]; // initialisation: actually here object is being created in the memory (heap)
 
 //        System.out.println(ros[1]);
+//            Array of string or Array of object-->
             String[] rnos = new String[5];
             System.out.println(rnos[3]); // null--> by default value of empty array
 //          Array of Primitive type--> int

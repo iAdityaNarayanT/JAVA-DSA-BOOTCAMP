@@ -1,6 +1,9 @@
 package com.aditya;
 
+import java.util.Arrays;
 import java.util.Scanner;
+
+import static java.lang.System.in;
 
 public class Input {
     public static void main(String[] args) {
@@ -16,9 +19,17 @@ public class Input {
 
         //Input via for loop
         Scanner in= new Scanner(System.in);
-        for (int i = 0; i <arr.length; i++) {
-            arr[i]=in.nextInt();
-        }
+//        for (int i = 0; i <arr.length; i++) {
+//            arr[i]=in.nextInt();
+//        }
+//        System.out.println(Arrays.toString(arr));
+// !Arrays.toString() method is used to return a
+        // string representation of the contents of the specified array.
+        // The string representation consists of a list of the array’s elements,
+        // enclosed in square brackets (“[]”). Adjacent elements are separated by the characters
+        // “, ” (a comma followed by a space). It returns “null” if the array is null.
+
+
         // Now to print the following array
         // 1. for-loop method
 //        for (int i = 0; i < arr.length ; i++) {
@@ -27,11 +38,20 @@ public class Input {
 
         //! 2. for each loop method: Enhanced for loop
 
-        for (int num : arr) { // for every element in the array, print the element
-            num+=1;
-            System.out.print(num + " "); // num represents the element of the array
+//        for (int num : arr) { // for every element in the array, print the element
+////            num+=1;
+//            System.out.println(num + " "); // num represents the element of the array
+//        }
+//        System.out.println(arr[2]); //prints the element on the 2nd index of users input
+////        System.out.println(arr[6]); //Error: Index 6 out of bounds for length 5
+        //Array of objects--> Array
+        String [] str = new String[5];
+        for (int i = 0; i < str.length ; i++) {
+            str[i] = in.nextLine();
 
         }
-//        System.out.println(arr[6]); //Error: Index 6 out of bounds for length 5
+        for (String strArray: str         ) {
+            System.out.println(strArray);
+        }
     }
 }

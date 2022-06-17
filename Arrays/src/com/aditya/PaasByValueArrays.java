@@ -6,7 +6,7 @@ public class PaasByValueArrays {
 /*  1. Any changes in the content of array through that reference will affect
 // the original array.
 
-   2. But changing the reference to point to a new array will not change
+    2. But changing the reference to point to a new array will not change
 // the existing reference in original method.*/
 
 //!  In Java, the called method can update the contents of the array,
@@ -23,20 +23,19 @@ public class PaasByValueArrays {
             // If we change the reference
             arr = new int[2];  // Will not change the array in main()
             arr[0] = 15;
-            System.out.println(arr[0]);
+//            System.out.println(arr[0]);
         }
 
         public static void main(String[] args) {
-            int [] arr = new int[2];
+            int [] arr = {1,2,3,4,5};
             arr[0] = 4;
             arr[1] = 5;
+            System.out.println(arr[0]); //4
 
             changeContent(arr);
-
             System.out.println(arr[0]);  // Will print 10..
 
             changeRef(arr);
-
             System.out.println(arr[0]);  // Will still print 10..
             // Change the reference doesn't reflect change here..
         }
