@@ -23,15 +23,17 @@ public class Input {
             arr[i]=in.nextInt();
         }
         System.out.println(Arrays.toString(arr));
-// ! 1.Arrays.toString() method is used to return a
-        // This method is used to return a string representation of the contents of the
+
+// Now to print the following array
+        // ! 1.Arrays.toString()
+        //  method is used to return a string representation of the contents of the
         // specified array.
         // The string representation consists of a list of the array’s elements,
         // enclosed in square brackets (“[]”). Adjacent elements are separated by the characters
         // “, ” (a comma followed by a space). It returns “null” if the array is null.
 
 
-        // Now to print the following array
+
         //! 2. for-loop method
 //        for (int i = 0; i < arr.length ; i++) {
 //            System.out.print(arr[i] + " ");
@@ -52,8 +54,8 @@ public class Input {
 //            str[i] = in.nextLine();
 //
 //        }
-//        for (String strArray: str) {
-//            System.out.println(strArray);
+//        for (String strElements: str) {
+//            System.out.println(strElements);
 //        }
     }
 }
