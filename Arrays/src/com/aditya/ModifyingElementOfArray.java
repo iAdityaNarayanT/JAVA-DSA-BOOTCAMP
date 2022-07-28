@@ -11,6 +11,7 @@ public class ModifyingElementOfArray {
         str[i]= in.next();
         }
         System.out.println(Arrays.toString(str)); //[aa, ss, dd, sd]
+
         str[1]="Aditya"; // modified element at index 1
 
         System.out.println(Arrays.toString(str)); // [aa, Aditya, dd, sd]

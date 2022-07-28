@@ -41,7 +41,7 @@ public class Input {
 
         //! 3. for each loop method: Enhanced for loop
 
-//        for (int num : arr) { // for every element in the array, print the element
+//        for (int num : arr) { // for every element num in the array, print the element
 ////            num+=1;
 //            System.out.println(num + " "); // num represents the element of the array
 //        }

@@ -10,7 +10,7 @@ public class Main {
 //        int[] rnos = new int[5];
 //        // or directly
 //        int[] rnos2 = {23, 12, 45, 32, 15};
-
+       // int[] rn= new int[]{1, 2, 3, 4, 5};
             int[] ros; // declaration of array. ros is getting defined in the stack
             ros = new int[5]; // initialisation: actually here object is being created in the memory (heap)
 
