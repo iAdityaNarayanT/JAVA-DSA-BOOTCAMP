@@ -4,7 +4,7 @@ public class TwoDimArrays {
     public static void main(String[] args) {
 
         int [][] arr= new int[3][4]; // Declaration syntax
-
+//        The above syntax of array initialization will assign default values to all array elements according to the data type specified.
         int [][] arr1= { {1,2,3},
                         {4,5,6},   // Direct Declaration Method
                         {7,8,9}
