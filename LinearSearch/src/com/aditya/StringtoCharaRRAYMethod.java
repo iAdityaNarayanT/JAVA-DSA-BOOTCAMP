@@ -1,5 +1,7 @@
 package com.aditya;
 
+import java.util.Arrays;
+
 public class StringtoCharaRRAYMethod {
     public static void main(String[] args) {
         String s1 = "Hello World";
@@ -12,9 +14,13 @@ public class StringtoCharaRRAYMethod {
 // string and its contents are initialized with the characters of this string.
         int len = ch.length;
         System.out.println("Char Array length: " + len); //11
+
+        System.out.println(Arrays.toString(s1.toCharArray()));
+        // [H, e, l, l, o,  , W, o, r, l, d]
+
         System.out.println("Char Array elements: ");
         for (int i = 0; i < len; i++) {
             System.out.print(ch[i]);
-        }
+        } //Hello World
     }
 }

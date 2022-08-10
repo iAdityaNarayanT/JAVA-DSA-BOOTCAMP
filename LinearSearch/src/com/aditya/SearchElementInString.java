@@ -4,10 +4,23 @@ public class SearchElementInString {
     public static void main(String[] args) {
         String name = "Aditya";
         char target= 'd';
-        System.out.println(saearchCharacter(name , target));
+        System.out.println(searchCharacter(name , target));
+        System.out.println(searchCharacterUsingForEach(name , target));
+    }
+// ! using for each loop:
+    private static boolean searchCharacterUsingForEach(String name, char target) {
+        if(name.length()==0){
+            return false;
+        }
+        for (char element: name.toCharArray()) {
+            if (element==target){
+                return true;
+            }
+        }
+        return false;
     }
 
-    private static boolean saearchCharacter(String name, char target) {
+    private static boolean searchCharacter(String name, char target) {
         if(name.length()==0){
             return false;
         }
